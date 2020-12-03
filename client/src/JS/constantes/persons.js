@@ -1,0 +1,10 @@
+export const GET_PERSON_LOADING = "GET_PERSON_LOADING";
+export const GET_PERSON_SUCCESS = "GET_PERSON_SUCCESS";
+export const GET_PERSON_FAIL = "GET_PERSON_FAIL";
+
+export const DELETE_PERSON = "DELETE_PERSON";
+
+export const GET_PERSON = "GET_PERSON";
+
+export const POST_PERSON = "POST_PERSON";
+export const EDIT_PERSON = "EDIT_PERSON";
